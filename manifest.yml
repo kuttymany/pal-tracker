@@ -8,7 +8,7 @@ applications:
 
     routes: 
 
-    - route: pal-tracker-${UNIQUE_IDENTIFIER}.${DOMAIN}
+    - route: pal-tracker-7759b839-ab2d-4c00-9bd9-83a5c8a2e18e.cfapps.io
 
     services:
 
